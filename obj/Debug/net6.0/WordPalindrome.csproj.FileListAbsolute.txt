@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\bin\Debug\net6.0\WordPalindrome.exe
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\bin\Debug\net6.0\WordPalindrome.deps.json
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\bin\Debug\net6.0\WordPalindrome.runtimeconfig.json
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\bin\Debug\net6.0\WordPalindrome.dll
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\bin\Debug\net6.0\WordPalindrome.pdb
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\WordPalindrome.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\WordPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\WordPalindrome.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\WordPalindrome.AssemblyInfo.cs
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\WordPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\WordPalindrome.dll
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\refint\WordPalindrome.dll
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\WordPalindrome.pdb
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\WordPalindrome.genruntimeconfig.cache
+C:\Users\User\Desktop\Job\ITAcademy\ITAcademy\WordPalindrome\WordPalindrome\WordPalindrome\obj\Debug\net6.0\ref\WordPalindrome.dll
